@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-id="fox" tvg-name="fox" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="test",fox
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="AAA", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-
 
 <----------------------------------- Indonesia Channel --------------------------------------->
 
