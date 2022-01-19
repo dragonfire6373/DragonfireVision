@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="LOKAL FTA"  tvg-id="Indosiar.id" tvg-logo="https://www.dropbox.com/s/qefmcuctb7b33xn/INDOSIAR_Logo.png?dl=1", Indosiar (vision) 
-https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA", INDOSIAR
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
 <----------------------------------- Indonesia Channel --------------------------------------->
 
