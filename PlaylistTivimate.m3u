@@ -27,7 +27,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tHbDn4C/Indosiar.png" group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar (BACKUP)
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
