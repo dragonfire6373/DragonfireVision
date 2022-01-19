@@ -1,5 +1,6 @@
-#EXTINF:-1 group-title="Indihome",FOX
+#EXTINF:-1 tvg-id="fox" tvg-name="fox" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="test",fox
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+
 
 <----------------------------------- Indonesia Channel --------------------------------------->
 
