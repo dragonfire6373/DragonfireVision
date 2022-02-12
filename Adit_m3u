@@ -79,6 +79,12 @@ https://on-load.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" tvg-name="Nickelodeon" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch444_160_115" group-title="ANAK2",Nickelodeon
 https://on-load.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#EXTINF:-1  tvg-id="" tvg-name="Ruang Trampil" group-title="Education" tvg-logo="https://bdg-indihome.com/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil-HD.png" group-title="ANAK2",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+
+#EXTINF:-1  tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://pusdatin.kemdikbud.go.id/wp-content/uploads/2018/07/logo-tve-2.png" group-title="ANAK2",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+
 <----------------------------------- BERITA Channel --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -432,10 +438,19 @@ https://on-load.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.m
 
 <----------------------------------- MUSIK Channel --------------------------------------->
 
+#EXTINF:-1  tvg-id="" tvg-name="MTV Biggest POP"  tvg-logo="https://i.imgur.com/hKFctz9.png" group-title="MUSIK",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="MTV Block Party" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="MUSIK",MTV Block Party 
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MUSICTV.id" tvg-name="MUSIC TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_111.png" group-title="MUSIK", MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1  tvg-id="" tvg-name="POP MUSIK" tvg-logo="https://i.imgur.com/1lRbGMf.png" group-title="MUSIK",POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
 
 <----------------------------------- OLAHRAGA Channel --------------------------------------->
 
