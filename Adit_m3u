@@ -345,6 +345,20 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png" group-title="GAYAHIDUP",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+<----------------------------------- DAERAH Channel --------------------------------------->
+
+#EXTINF:-1 tvg-id="" tvg-name="Bali Tv" tvg-logo="https://i.postimg.cc/3Nnyr2wz/bali.png" group-title="DAERAH",Bali TV 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandung Tv" tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="DAERAH",Bandung TV 
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DM Malang Tv" tvg-logo="" group-title="DAERAH",DM Malang TV
+http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/chunklist_w656174325.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jogja Tv" tvg-logo="https://i.postimg.cc/jSCHsn1M/logo-jitv-big.png" group-title="DAERAH",Jogja TV 
+http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
+
 <----------------------------------- LOKAL Channel --------------------------------------->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
