@@ -355,6 +355,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="LOKAL",Indosiar
+rtp://@239.1.1.17:8076
 http://tv.vidiostream.com/i/indosiar_1@137582/index_360_av-p.m3u8?sd=10&rebase=on
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
