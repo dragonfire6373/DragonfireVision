@@ -61,7 +61,7 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png" group-title="ANAK2",Kids tv
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Lego Toons" tvg-id="ext" group-title="ANAK2",Lego Toons
+#EXTINF:-1 tvg-id="" tvg-name="Lego Toons" tvg-id="ext" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png" group-title="ANAK2",Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
