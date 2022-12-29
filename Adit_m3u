@@ -465,17 +465,17 @@ https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports.png" group-title="TVIndo [Sport]",MNC SPORTS
+#EXTINF:0 tvg-id="" tvg-name="MNC SPORTS" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports.png" group-title="OLAHRAGA",MNC SPORTS
 https://playlist.nontonbola.my.id/tvindo/mncsports.mpd?key=20x04x22
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports2.png" group-title="TVIndo [Sport]",MNC SPORTS2
+#EXTINF:0 tvg-id="" tvg-name="MNC SPORTS" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports2.png" group-title="OLAHRAGA",MNC SPORTS2
 https://playlist.nontonbola.my.id/tvindo/mncsports2.mpd?key=20x04x22
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/spotv.png" group-title="TVIndo [Sport]",SPOTV
+#EXTINF:0 tvg-id="" tvg-name="MNC SPORTS" tvg-logo="http://playlist.nontonbola.my.id/img/spotv.png" group-title="OLAHRAGA",SPOTV
 https://playlist.nontonbola.my.id/tvindo/scm.mpd?key=20x04x22
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
